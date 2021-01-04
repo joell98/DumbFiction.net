@@ -1,2 +1,2 @@
 # DumbFiction.net
-fanfiction.net revival
+fanfiction.net revival that is intended for stupid fanfiction
